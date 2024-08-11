@@ -1,6 +1,4 @@
 /*
-BackTracking Means ==> Controlled Recursion + Pass By Reference
-
 Question Link -> https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1
 Question -> Given a String S, Find all possible Palindromic partitions of the given String.
 
